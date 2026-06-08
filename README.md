@@ -33,4 +33,4 @@ This project is an interactive Power BI dashboard developed using the Superstore
 Mounesh M 
 
 ## Dashboard Preview
-Screenshot 2026-06-09 015007.png
+Screenshot 2026-06-09 014938.png
